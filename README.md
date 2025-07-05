@@ -4,8 +4,8 @@ WIP readme
 
 ----
 
-### ✅ Tasks checklist:0. GraphQL Schema
-- [X] ​0. Root Query (1/1 pt)
+### ✅ Tasks checklist:
+- [X] ​0. GraphQL Schema (1/1 pt)
 - [ ] ​1. Root Query (0/? pts)
 - [ ] ​2. Resolve function and test query in graphiql (0/? pts)
 - [ ] ​3. GraphQL ID type and Project Type (0/? pts)
