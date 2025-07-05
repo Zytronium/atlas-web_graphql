@@ -18,7 +18,7 @@ WIP readme
 ###### Since everything except task 0 shows "0/ pts," I'll calculate progress as if everything is 1 point, for a total of 9 pts.
 
 - [ ] Readme
-- [ ] **Everything Done ✓** (1/9 pts) - 1.11%
+- [ ] **Everything Done ✓** (1/9 pts) - 11.11%
 
 >### Progress Goals:  
 > <strong>Saturday/Sunday: 55.56% (task 4)</strong>  
