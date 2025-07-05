@@ -12,7 +12,7 @@ const TaskType = new GraphQLObjectType({
   }
 });
 
-const RootQuery = GraphQLObjectType({
+const RootQuery = new GraphQLObjectType({
   name: 'RootQueryType',
   fields: {
     task: {
