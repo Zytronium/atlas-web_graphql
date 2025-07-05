@@ -5,7 +5,7 @@ WIP readme
 ----
 
 ### ✅ Tasks checklist:0. GraphQL Schema
-- [ ] ​0. Root Query (0/1 pt)
+- [X] ​0. Root Query (1/1 pt)
 - [ ] ​1. Root Query (0/? pts)
 - [ ] ​2. Resolve function and test query in graphiql (0/? pts)
 - [ ] ​3. GraphQL ID type and Project Type (0/? pts)
@@ -18,7 +18,7 @@ WIP readme
 ###### Since everything except task 0 shows "0/ pts," I'll calculate progress as if everything is 1 point, for a total of 9 pts.
 
 - [ ] Readme
-- [ ] **Everything Done ✓** (0/9 pts) - 0.0%
+- [ ] **Everything Done ✓** (1/9 pts) - 1.11%
 
 >### Progress Goals:  
 > <strong>Saturday/Sunday: 55.56% (task 4)</strong>  

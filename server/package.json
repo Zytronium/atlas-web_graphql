@@ -1,0 +1,18 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "GraphQL Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-boost": "^0.4.9",
+    "express": "^5.1.0",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.11.0",
+    "react-apollo": "^3.1.5"
+  }
+}
