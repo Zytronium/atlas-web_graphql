@@ -30,10 +30,5 @@ WIP readme
 > **PR** - Job Interview 101: Done by end of Thursday, **July 10th** | Due July 16th  
 > **PR** - PR1430 InStage Interview #2: Done by end of Friday, **July 11th** | Due July 16th  
 > **PR** - Technical LinkedIn Post - O: Done by end of next Monday, **July 14th** | Due July 16th  
-> **Full Stack** - Files Manager Express: Done by following Monday, **July 21st** | Due July 23rd   
-
->### July Personal Goals:
-> - [ ] Program a goal tracker like this into a subdomain on www.zytronium.dev locked behind password login  
-> - [ ] Finish home page revamp on TFN website AND/OR finish faction upload command on TFN discord bot  
-> - [ ] Move this to personal goal tracker when it's been created
+> **Full Stack** - Files Manager Express: Done by following Monday, **July 21st** | Due July 23rd
 ---
