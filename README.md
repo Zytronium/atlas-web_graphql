@@ -1,6 +1,18 @@
 # GraphQL Backend
 
-WIP readme
+This project covers implementing GraphQL using Node.js, Express, and MongoDB. 
+It implements a project management system similar to Holberton's (Atlas School's
+legacy curriculum) with projects and tasks. It covers GraphQL schemas, queries
+resolve functions, type relations, connecting to mongoDB, mutation,
+and more.
+
+GraphQL is a query language and runtime for APIs that provides the ability to
+ask for exactly the data needed; nothing more, nothing less. GraphQL operates
+over a single endpoint and allows complex, nested queries in a single call.
+It uses a type system to define data structures and provides a strongly typed
+contract between frontend and backend. In this project, GraphQL is integrated
+via the `express-graphql` middleware, enabling an interactive playground
+(GraphiQL) for testing queries and mutations in real time.
 
 ----
 
@@ -17,18 +29,14 @@ WIP readme
 
 ###### Since everything except task 0 shows "0/ pts," I'll calculate progress as if everything is 1 point, for a total of 9 pts.
 
-- [ ] Readme
+- [X] Readme
 - [ ] **Everything Done ✓** (5/9 pts) - 55.56%
 
 >### Progress Goals:  
-> <strong>Saturday/Sunday: 55.56% (task 4) ✓</strong>  
-<em style="color: gray">Monday: 77.78% (task 6)</em>  
-<em style="color: gray">Tuesday: 100% (task 8)</em>
+> <span style="color: lightgreen">✓ Saturday/Sunday: 55.56% (task 4)</span>  
+<span style="color: #ff8383">Monday: 77.78% (task 6)</span>  
+<strong style="color: palegoldenrod">Tuesday: 100% (task 8)</strong>
 
->### This sprint's goals:  
-> **Full Stack** - GraphQL Backend: Done by end of Tuesday, **July 8th** | Due July 23rd   
-> **PR** - Job Interview 101: Done by end of Thursday, **July 10th** | Due July 16th  
-> **PR** - PR1430 InStage Interview #2: Done by end of Friday, **July 11th** | Due July 16th  
-> **PR** - Technical LinkedIn Post - O: Done by end of next Monday, **July 14th** | Due July 16th  
-> **Full Stack** - Files Manager Express: Done by following Monday, **July 21st** | Due July 23rd
 ---
+
+[Click Here to go back to Atlas Web Back End](https://github.com/Zytronium/atlas-web_back_end#readme) (T4 Primary Repo)
