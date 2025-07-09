@@ -24,13 +24,13 @@ via the `express-graphql` middleware, enabling an interactive playground
 - [X] ​4. Type relations (1/? pts)
 - [X] ​5. More on root queries: projects and tasks (1/? pts)
 - [X] ​6. Connecting to mongoDB Atlas and create mongoose models (1/? pts)
-- [ ] ​7. Mutation (0/? pts)
+- [X] ​7. Mutation (1/? pts)
 - [ ] ​8. Updating the resolve functions (0/? pts)
 
 ###### Since everything except task 0 shows "0/ pts," I'll calculate progress as if everything is 1 point, for a total of 9 pts.
 
 - [X] Readme
-- [ ] **Everything Done ✓** (7/9 pts) - 77.78%
+- [ ] **Everything Done ✓** (8/9 pts) - 88.89%
 
 >### Progress Goals:  
 > <span style="color: lightgreen">✓ Saturday/Sunday: 55.56% (task 4)</span>  
